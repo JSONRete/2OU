@@ -1,2 +1,0 @@
-class CateforiesController < ApplicationController
-end
